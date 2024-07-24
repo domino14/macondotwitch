@@ -1,0 +1,9 @@
+*.jpg
+*.png
+dropbox_based/token.txt
+dropbox_based/link.txt
+venv
+__pycache__
+*.h5
+*.pkl
+*.json

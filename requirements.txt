@@ -1,0 +1,8 @@
+pillow
+joblib
+requests
+opencv-python
+scikit-image
+scikit-learn
+tensorflow
+matplotlib
