@@ -92,7 +92,7 @@ schedule.every(5).seconds.do(check_for_updates, dropbox_link)
 class Bot(commands.Bot):
 
     def __init__(self):
-        super().__init__(token=token, prefix="!", initial_channels=["#scrabble"])
+        super().__init__(token=token, prefix="!", initial_channels=["#austinho9"])
 
     async def event_ready(self):
         print(f"Logged in as {self.nick}", flush=True)
